@@ -4,8 +4,8 @@ const Footer = () => {
     return (
         <footer>
             <div className='footer-container'>
-                <p>Projet réalisé par Chadrack ©copyrighte</p>
-                <p>Les icone provienne de Iconfonder</p>
+                <p className=''>Projet réalisé par Chadrack ©copyrighte</p>
+               
             </div>
         </footer>
     );
